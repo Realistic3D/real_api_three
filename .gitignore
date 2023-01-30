@@ -1,0 +1,9 @@
+.lib
+.idea
+.dist
+node_modules
+
+.lib/*
+.dist/*
+.idea/*
+node_modules/*
