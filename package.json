@@ -1,0 +1,20 @@
+{
+  "name": "real_api_three",
+  "version": "1.0.1",
+  "description": "Real API plugin for 3js",
+  "main": "RealAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Realistic3D/real_api_three.git"
+  },
+  "keywords": ["RealAPI", "Three", "R3DReal3D"],
+  "author": "USMANHEART",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Realistic3D/real_api_three/issues"
+  },
+  "homepage": "https://github.com/Realistic3D/real_api_three#readme"
+}
